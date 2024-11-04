@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Teste-React/static/css/main.5f747df0.css",
+    "main.js": "/Teste-React/static/js/main.f14151fe.js",
+    "static/media/wallpaper.jpg": "/Teste-React/static/media/wallpaper.7c2df95698cd92ef3b65.jpg",
+    "index.html": "/Teste-React/index.html",
+    "main.5f747df0.css.map": "/Teste-React/static/css/main.5f747df0.css.map",
+    "main.f14151fe.js.map": "/Teste-React/static/js/main.f14151fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f747df0.css",
+    "static/js/main.f14151fe.js"
+  ]
+}
